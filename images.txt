@@ -1,7 +1,3 @@
-nginx
-alpine
-
-rohitbasu77/oracle11g:latest
-
+liujunel/oracle11g
 
 
